@@ -9,7 +9,6 @@
 - 🔭 Currently pursuing a master’s degree in Innovation and Technology at the University of Deusto.
 - 🌱 I’m carving out my path in software development.
 - 👯 I’m looking to collaborate on open source projects and connect with people.
-<!-- - 🤔 I’m looking for help with ... -->
 - ⚡ Fun fact: I love playing chess, even though I’m pretty bad at it.
 
 <div align="center">
@@ -18,7 +17,6 @@
 
 </div>
 
-<!-- Social media icons -->
 <p align="center">
   <a href= "https://www.linkedin.com/in/jairo-alonso/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://signal.me/#eu/B9rxQco63aIuWtYxD6iw7G_FI9ypx3RZwXWnJDXtQGkunntwgI5AgKemqRE6trfj"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
