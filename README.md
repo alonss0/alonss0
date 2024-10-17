@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 👋 I'm Alonso {style=text-align:center}
 
-<!--
-**Alonsso/alonsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Systems engineer {style=text-align:center}
 
-Here are some ideas to get you started:
+- 🔭 Currently pursuing a master’s degree in Innovation and Technology at the University of Deusto.
+- 🌱 I’m carving out my path in software development.
+- 👯 I’m looking to collaborate on open source projects and connect with people.
+<!-- - 🤔 I’m looking for help with ... -->
+- ⚡ Fun fact: I love playing chess, even though I’m pretty bad at it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alonss0)
+
+</div>
+
+<!-- Social media icons -->
+<p align="center">
+  <a href= "https://www.linkedin.com/in/jairo-alonso/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://signal.me/#eu/B9rxQco63aIuWtYxD6iw7G_FI9ypx3RZwXWnJDXtQGkunntwgI5AgKemqRE6trfj"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
+  <a href= "https://www.youtube.com/@_alonss0"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+</p>
