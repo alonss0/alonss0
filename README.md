@@ -1,6 +1,10 @@
-# Hi 👋 I'm Alonso {style=text-align:center}
+<div align="center">
 
-#### Systems engineer {style=text-align:center}
+# Hi 👋 I'm Alonso
+
+#### Systems engineer
+
+</div>
 
 - 🔭 Currently pursuing a master’s degree in Innovation and Technology at the University of Deusto.
 - 🌱 I’m carving out my path in software development.
