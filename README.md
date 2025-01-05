@@ -13,7 +13,6 @@
 
 <div align="center">
 
-![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alonss0)
 
 </div>
 
